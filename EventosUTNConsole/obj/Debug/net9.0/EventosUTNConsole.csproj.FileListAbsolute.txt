@@ -1,0 +1,17 @@
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\EventosUTNConsole.exe
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\EventosUTNConsole.deps.json
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\EventosUTNConsole.runtimeconfig.json
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\EventosUTNConsole.dll
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\EventosUTNConsole.pdb
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.csproj.AssemblyReference.cache
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.AssemblyInfoInputs.cache
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.AssemblyInfo.cs
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.csproj.CoreCompileInputs.cache
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosU.8B6EBF7F.Up2Date
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.dll
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\refint\EventosUTNConsole.dll
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.pdb
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\EventosUTNConsole.genruntimeconfig.cache
+C:\Users\Damian Portilla\source\repos\EventosUTN\EventosUTN\EventosUTNConsole\obj\Debug\net9.0\ref\EventosUTNConsole.dll
